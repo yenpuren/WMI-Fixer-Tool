@@ -1,0 +1,9 @@
+https://gallery.technet.microsoft.com/WMI-Fixer-Tool-4c8dd60f
+
+his tool was made to help others fix their server's WMI Repository when they're corrupted or experiencing related issued, for many IT Pros scripts aren't always very friendly, so i've decided to make a Tool using Windows Powershell and Windows Forms.
+
+This tool is freely avaliable and may be improved if feedback is provided.
+
+This fix is based on the scriptlet in the following Technet Article:
+
+http://blogs.technet.com/b/askperf/archive/2009/04/13/wmi-rebuilding-the-wmi-repository.aspx
